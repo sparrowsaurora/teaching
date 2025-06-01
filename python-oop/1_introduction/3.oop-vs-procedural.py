@@ -21,7 +21,10 @@
 
 #######################
 
+def main( name ):
+    print(f"hello {name}")
 
+main( "john" )
 
 #######################
 
